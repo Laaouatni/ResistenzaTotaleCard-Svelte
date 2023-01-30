@@ -1,0 +1,1 @@
+# ResistenzaTotaleCard-Svelte
